@@ -26,7 +26,7 @@ Students can:
 - Interface: Web Chat
 
 ## 🔗 Live Bot
-[Click here to chat with EduBot](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/06/08/13/20260608131206-0TOEYZZV.json)
+[Click here to chat with EduBot](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/06/08/13/20260608131206-0TOEYZZV.json&_gl=1*l5y9m8*_gcl_au*MTM3MDIxMDgzMi4xNzgwOTA2ODQyLjExNDYxOTA3NTEuMTc4MDkzMjM0NC4xNzgwOTMyMzk0*_ga*MjQxODc1ODg1LjE3ODA5MDY4NDI.*_ga_HKHSWES9V9*czE3ODA5MzIyNTAkbzMkZzEkdDE3ODA5MzI4MzQkajU5JGwwJGgxNDkxOTQwMjMw)
 
 ## 📸 Screenshots
 Available in the /screenshots folder
